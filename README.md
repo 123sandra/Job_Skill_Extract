@@ -10,7 +10,7 @@ __🦋 How It Works__ <br>
 
 📑Here i have used NLTK nlp libraries for tokenization, remove stopwords etc. I created UI with the help of Streamlit framework👩‍💻in PyCharm IDE.<br>
 
-Here is the streamlit app Check it out!🎆:
+Here is the streamlit app Check it out!🎆: https://jobskillextract.streamlit.app/
 
 
 ## Contributing
