@@ -29,7 +29,7 @@ skills_list = ["python","sql","mysql","machine learning","deep learning","nlp","
              "generative ai","generative artificial intelligence","encoders","handle imbalance data","attention to detail","critical thinking",
                "adaptability","flexibility","self-motivation","self motivation","initiative","curiosity","learning mindset","time management","organization",
                "interpersonal skills","leadership","mentorship","innovation","creativity","ethical judgement","integrity","customer focus",
-               "resilience","persistence"," insight sharing","experiment results","data exploration", "analysis","generative ai development",
+               "resilience","persistence"," insight sharing","experiment results","data exploration", "analysis","generative ai development","communication",
                "stable diffusion","dall·e","large language models","creative problem solving","content generation","langchain","classifiers","predictive models",
                "data preprocessing","data cleaning","data cleansing","data transformation","patterns","python libraries","seaborn","plotly","feature extraction","preprocessing",
                "pattern recognition","image generation","etl","mlops","mlflow","docker","kubernetes","opencv","mediapipe","reinforcement learning","big data","apache spark","kafka",
